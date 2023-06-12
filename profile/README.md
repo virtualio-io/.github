@@ -1,6 +1,6 @@
 # 🏡 Virtualio.io 🏡
 
-Welcome to [Virtualio.io](https://virtualio.io), your digital bridge to an immersive real estate experience! 😎
+Welcome to [Virtualio.io](https://virtualio.io) (Ctrl/Cmd + Click to open in a new tab), your digital bridge to an immersive real estate experience! 😎
 
 We're revolutionizing the real estate market with our VR-based platform, powered by the latest technologies - Artificial Intelligence, Virtual Reality, and Machine Vision. 🚀
 
@@ -32,7 +32,7 @@ Our platform allows realtors to provide clients with an engaging, virtual tour o
 
 Got questions, feedback or just want to chat about virtual real estate? Drop us a line at [hello@virtualio.io](mailto:hello@virtualio.io) 📧
 
-For more information, visit our website at [virtualio.io](https://virtualio.io) 🌍
+For more information, visit our website at [virtualio.io](https://virtualio.io) (Ctrl/Cmd + Click to open in a new tab) 🌍
 
 ---
 
